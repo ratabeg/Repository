@@ -693,22 +693,22 @@ ul li a:hover:before {
 }
 
 #headerImg-1 {
-  background-image: url("/img/2.png") !important;
+  background-image: url("img/2.png") !important;
 }
 #headerImg-2 {
-  background-image: url("/img/portfolio/Ryder and Andrew Finished.png") !important;
+  background-image: url("img/portfolio/Ryder and Andrew Finished.png") !important;
 }
 #headerImg-3 {
-  background-image: url("/img/portfolio/Stationary template.png") !important;
+  background-image: url("img/portfolio/Stationary template.png") !important;
 }
 #headerImg-4 {
-  background-image: url("/img/DSC05381-3.jpg") !important;
+  background-image: url("img/DSC05381-3.jpg") !important;
 }
 #headerImg-5 {
-  background-image: url("/img/DSC00247_002.JPG") !important;
+  background-image: url("img/DSC00247_002.JPG") !important;
 }
 #headerImg-6 {
-  background-image: url("/img/DSC05193-2.jpg") !important;
+  background-image: url("img/DSC05193-2.jpg") !important;
 }
 
 * {
