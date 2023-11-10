@@ -1,0 +1,50 @@
+// .banner{
+//     position: absolute;
+//     height: 100vh;
+//     width: 100%;
+//     left: 0;
+//     top: 0;
+//     overflow: hidden;
+
+
+//     & img{
+//         width: 120%;
+//         position: absolute;
+//         left: 50%;
+//         top: 50%;
+//         transform: translate(-50%,-50%);
+//         // animation: slide 12 linear infinite;
+//         animation: zoom-out 5s linear infinite;
+
+
+//     }
+// }
+
+#headerImg{
+
+    &-1{
+        background-image: url("/img/2.png") !important;
+
+    }
+
+    &-2{
+        background-image: url("/img/portfolio/Ryder\ and\ Andrew\ Finished.png") !important;
+
+    }
+    &-3{
+        background-image: url("/img/portfolio/Stationary\ template.png") !important;
+
+    }
+    &-4{
+        background-image: url("/img/DSC05381-3.jpg") !important;
+
+    }
+    &-5{
+        background-image: url("/img/DSC00247_002.JPG") !important;
+
+    }
+
+    &-6{
+        background-image: url('/img/DSC05193-2.jpg') !important;
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "jb-productions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"sass Sass/main.scss style.css -w"
+
+  },
+  "author": "Raouf atabeg",
+  "license": "ISC"
+}

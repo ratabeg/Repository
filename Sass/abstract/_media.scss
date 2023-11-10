@@ -1,0 +1,49 @@
+@media (max-width: 564px) {
+    .header-title{
+        font-size: 3rem !important;
+    }
+
+    .websiteTitle{
+        transform: translate(0%,50vh);
+
+    }
+
+    .intro-container video{
+
+        display: none !important;
+    }
+
+    .header-title{
+        font-size: 1rem;
+        left: 50% !important;
+        transform: translate(-50%,50%);
+        
+    }
+
+
+
+
+
+
+
+}
+
+// @media (max-width: $screen-sm) {
+//     body{font-size: 14px;}
+// }
+
+// @media all and (min-width: 564px) {
+//     width: 200px;
+//   }
+  
+//   @media all and (min-width: 768px) {
+//     width: 300px;
+//   }
+  
+//   @media all and (min-width: 992px) {
+//     width: 400px;
+//   }
+  
+//   @media all and (min-width: 1200px) {
+//     width: 500px;
+//   }
