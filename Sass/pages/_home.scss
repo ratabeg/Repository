@@ -66,8 +66,8 @@ html{
   transform: translate(-50%,-50%);
   font-family: 'Oswald', Arial, sans-serif;
   & span{
-    -webkit-text-stroke-color: goldenrod ;
-    color: white;
+    -webkit-text-stroke-color: rgba($color-primary,1) ;
+    color: rgba($color-primary,1);
 
 
   }
